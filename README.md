@@ -1,2 +1,3 @@
 # go-C-
 In this i am going to put my C++ works like assignments, practiced programs and may be DSA also
+go-c- is a repository where i am going to put the programs,project,assignment and concepts for understanding about topics so that in future it will help to do something special or it will build me to become something special. At last.....................HARI BOLEEEE.........HARE KRISHNA.......HARE KRISHNA......KRISHNA KRISHNA........HARE HARE.......HARE RAMA........HARE RAMA........RAMA RAMA.......HARE HARE.........
